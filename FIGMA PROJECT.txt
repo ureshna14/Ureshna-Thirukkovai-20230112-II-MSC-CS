@@ -1,0 +1,11 @@
+ABOUT PROJECT:
+
+1)TITLE;
+        PLAY STORE
+
+2)ABOUT PROJECT:
+                  Google Play is an online store on Android that makes it easy for more than 2.5
+ billion monthly users across 190+ markets worldwide to discover millions of high-quality apps, games, books, and more.
+ 
+3)LINK:
+        https://www.figma.com/design/Gu5mYXAmsd5YfA5M0d0fqi/Untitled?node-id=0-1&t=asi8TDVM7oFOlteg-1	
